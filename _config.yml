@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: [SPLTR]
 description: [A new way to manage splitting bills]
+github:
+  is_project_page: false
